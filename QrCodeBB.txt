@@ -1,0 +1,155 @@
+A2 QR Code				E1057	Anubion A2 Yell Orbit				Gold
+A2 YO (Sparkling Gold)			Anubion A2 Yell Orbit				Sparkling Gold
+B2 (Purple)						Betromoth B2 Heavy Hold				Purple
+B2.H.H (Green) QR Code	C2333	Betromoth B2 Heavy Hold				Green
+C.O.G (White) QR Code	E1064	Caynox Oval Gyro					White
+C3 (Gray)				E1032	Cognite C3 6Meteor Trans			Gray
+C3 QR Code						Cognite C3 6Meteor Trans			Brown
+D TA (Green)			E1062	Diomedes Triple Accel				Green
+D.O.A (Green) QR Code	C2358	Doomscizor Oval Accel				Blue
+D.O.A (Purple) QR Code	B9505	Doomscizor Oval Accel				Purple
+D2.F.J (Green) QR Code	C0598	Doomscizor D2 Force Jaggy			Green
+D2.F.J (Maroon) QR Code	C2331	Doomscizor D2 Force Jaggy			Maroon
+D2 QR Code				C0600	Doomscizor D2 Force Jaggy			Purple
+D2 LO (Silver)					Doomscizor D2 Limited Orbit			Silver
+D3 (Blue)						Doomscizor D3 2Vortex Hunter		Blue
+D3 (Clear)				E1033	Doomscizor D3 2Vortex Hunter		Clear
+DC (Green)				E2458	Draciel Shield Central Press		Green
+DG WX (White)			E2545	Dragoon Storm Wing Xtreme			White
+DZ (Liner)				E2458	Dranzer Spiral Spread Liner			Blue
+DZ SU (Blue)			E2545	Dranzer Spiral Spread Unite			Blue
+******************************
+E.W.N (Green) QR Code	C2645	Evipero Wing Needle					Pink
+E2.H.E (Black) QR Code	C2286	Evipero E2 Heavy Edge				Gray
+EV3 (Brown)						Elite Valtryek V3 6Vortex Reboot	Brown
+F2 FQ (White)			E1050	Fengriff F2 Force Quake				White
+F2.B.J (Orange) QR Code	C2356	Fengriff F2 Boost Jaggy				Blue
+F3 (Gold)						Fafnir F3 8 Nothing					Blue
+F3 (Green)				E1038	Fafnir F3 7Cross Survive			Green
+F3 (Other Gold)					Fafnir F3 8 Nothing					Gold
+F3 QR Code				E1029	Fafnir F3 8 Nothing					Brown
+***
+G2 (Bronze)						Gaianon G2 Quarter Fusion			Bronze
+G2.Q.F (Orange) QR Code	C2358	Gaianon G2 Quarter Fusion			Orange
+G3 (Black)						Garuda G3 8Flow Flugel				Black
+G3 (Yellow)						Garuda G3 8Flow Flugel				Yellow
+GV3 (Blue)				E0722	Genesis Valtryek V3 6Vortex Reboot	Blue
+GV3 (Gray)						Genesis Valtryek V3 6Vortex Reboot	Gray Core
+GV3 (Green)				E1034	Genesis Valtryek V3 4Glaive Flugel	Green
+******************************
+H (Orange)				B9497	Horusood Spread Edge				Orange
+H.S.E (Blue) QR Code	C2270	Horusood Spread Edge				Purple
+H2 (Blue)				C0602	Horusood H2 Upper Claw				Blue
+H2 (Red)				C2286	Horusood H2 Upper Claw				Red
+H2 UC (Bronze)					Horusood H2 Upper Claw				Bronze
+Hyrus (Blue)			E1061	Hyrus Yell Needle					Blue
+I2 (Orange)				C3179	Ifritor I2 Magnum Liner				Orange
+I2 IZ (Black)			E1051	Ifritor I2 Infinity Zephyr			Black
+J2 (Blue)				C2356	Jormuntor J2 Infinity Cycle			Blue
+J2 ICy (Diamond)				Jormuntor J2 Infinity Cycle			Diamond
+J3 (Blue)				E1037	Jinnius J3 5Glaive Guard			Blue
+J3 (Green)						Jinnius J3 5Glaive Guard			Green
+K CD (Green)			B9497	Kerbeus Central Defense				Green
+K WF (Green)			B9504	Kerbeus Wing Fusion					Green
+******************************
+K2 (Gray)				C0597	Kerbeus K2 Limited Press			Gray
+K2 (Green)				B9490	Kerbeus K2 Limited Press			Green
+K2 (Orange)				C2273	Kerbeus K2 Limited Press			Orange
+K2 (Silver Edges)		C0706	Kerbeus K2 Limited Press			Silver Edges
+K2 LP (Silver)					Kerbeus K2 Limited Press			Silver
+K2 Rip Fire	C3067				Kerbeus K2 Rip Fire Pack			Rip Fire Version
+Khalazar K3 QR Code (Dark Blue)	Khalazar K3 7Under Hunter			Dark Blue
+Khalazar K3 QR Code (Green)		Khalazar K3 7Under Hunter			Green
+L2 (Gray)				E1056	Luinor L2 Nine Spiral				Gray
+L3 (Black)						Luinor L3 Destroy					Black
+LS3 (Red)				E1031	Legend Spryzen S3 7 Merge			Red
+LS3 (Silver)					Legend Spryzen S3 7 Merge			Silver
+******************************
+M (Brown)				C0942	Minoboros Oval Quake				Brown
+M (Green)				C0707	Minoboros Oval Quake				Green
+M2 QR Code				E1060	Minoboros M2 Knuckle Jaggy			Blue
+N (Blue)				B9496	Nepstrius Armed Zephyr				Blue
+N (Yellow)				C0707	Nepstrius Armed Zephyr				Yellow
+N2 (Blue)				C2285	Nepstrius N2 Vertical Zephyr		Blue
+N2 (Sapphire)					Nepstrius N2 Vertical Zephyr		Sapphire
+N2 (Yellow)				C0603	Nepstrius N2 Vertical Zephyr		Yellow
+N3 2J (Black)			E2393	Noctemis N3 2 Jaggy					Black
+O (Gray)				B9493	Odax Central Blow					Gray
+O (Orange)				C2271	Odax Central Blow					Orange
+O2 (Blue)				C2281	Odax O2 Triple Xtreme				Blue
+O2 (Gray)				C0599	Odax O2 Triple Xtreme				Gray
+O2 (Purple)				C3401	Odax O2 Triple Xtreme				Purple
+O2 AD (Yellow)			E1068	Orpheus O2 Armed Defense			Yellow
+******************************
+P2 QR Code				E1058	Phantazus P2 Polish Edge			Gray
+Q2 (Green)				C3180	Quetziko Q2 Jerk Press				Green
+Q2 JP (Emerald)					Quetziko Q2 Jerk Press				Emerald
+R CA (Yellow)			B9503	Roktavor Central Accel				Yellow
+R HS (Yellow)			B9496	Roktavor Heavy Survive				Yellow
+R2 (Blue)				C0596	Roktavor R2 Gravity Revolve			Blue
+R2 (Orange)				B9489	Roktavor R2 Gravity Revolve			Orange
+R2 (Silver)						Roktavor R2 Gravity Revolve			Silver
+R2 (Yellow)				C2272	Roktavor R2 Gravity Revolve			Yellow
+R2 Rip Fire				E1078	Roktavor R2 Rip Fire Pack			Yellow
+R3 (Gold)						Roktavor R3 4Cross Flugel			Gold
+R3 (Purple)						Roktavor R3 4Cross Flugel			Purple
+R3 QR Code				E1030	Roktavor R3 4Cross Flugel			Orange
+******************************
+S HD (Red Sides)		B9502	Spryzen Heavy Defense				Red Sides
+S SF (Yellow Sides)		B9493	Spryzen Spread Fusion				Yellow Sides
+S2 (Black Edges)		B9498	Spryzen S2 Knuckle Unite			Black and Gold Edges
+S2 (Yellow Edges)		B9488	Spryzen S2 Knuckle Unite			Yellow and Black Edges
+S2 LV (Green)			E1048	Spryzen S2 Limited Variable			Green
+S2 Rip Fire				C1514	Spryzen S2 Rip Fire Pack			Rip Fire Version
+S3 (Black)				E0722	Satomb S3 2Glaive Loop				Black
+S3 (Red)						Satomb S3 2Glaive Loop				Red
+Spryzen Requiem S3 (Purple)		Spryzen Requiem S3 0 Zeta			Purple
+Spryzen Requiem S3 (Red)		Spryzen Requiem S3 0 Zeta			Red
+Spryzen Requiem S3 (White)		Spryzen Requiem S3 0 Zeta			White
+SV3 (Blue)				E2393	Strike Valtryek V3 6Vortex Reboot	Blue
+T (Red)					C0707	Treptune Heavy Claw					Red
+T (Yellow)				C2285	Treptune Heavy Claw					Yellow
+Tyros (Brown)			E1067	Tyros Infinity Zephyr				Brown
+******************************
+U (Green)				B9492	Unicrest Ring Defense				Green
+U (Orange)				C0941	Unicrest Ring Defense				Orange
+U2 (Blue)				C0598	Unicrest U2 Down Needle				Blue
+U2 (Red)				C2282	Unicrest U2 Down Needle				Red
+U2 UJ (Red)				E1068	Unicrest U2 Upper Jaggy				Red
+V (Black)				C0709	Valtryek Wing Accel					Black
+V (Red)					B9501	Valtryek Spread Survive				Red Wings
+V (Yellow)				B9492	Valtryek Wing Accel					Yellow Wings
+V2 (Blue)				B9487	Valtryek V2 Boost Variable			Blue
+V2 (HasCon 2017)				HasCon 2017 Exclusive	Valtryek V2 Boost Variable	Ruby
+V2 (Red)				C3401	Valtryek V2 Boost Variable			Red
+V2 (Silver Wings)		C0706	Valtryek V2 Boost Variable			Silver Wings
+V2 (Silver)						Valtryek V2 Boost Variable			Silver
+V2 (Yellow Wings		B9498	Valtryek V2 Boost Variable			Yellow Wings
+V2 LU (Black)			E1046	Valtryek V2 Limited Unite			Black
+V2 Rip Fire				C1513	Valtryek V2 Rip Fire Pack	Rip 	Fire Version
+V3.6V.Rb (Orange)		E0955	Genesis Valtryek V3 6Vortex Reboot	Orange
+W (Purple)				B9507	Wyvron Armed Massive				Purple
+W2 (Green)				C2332	Wyvron W2 Vertical Massive			Green
+W2 (Orange)				E1064	Wyvron W2 Boost Jaggy				Orange
+W2 (Purple)				C0601	Wyvron W2 Vertical Massive			Purple
+W2 (Red)				C0599	Wyvron W2 Vertical Massive			Red
+W2 (Silver)						Wyvron W2 Vertical Massive			Silver
+W2 Rip Fire				E1079	Wyvron W2 Rip Fire Pack				Black
+W3 (Gold)						Wyvron W3 4Glaive Atomic			Gold
+W3 4GAt (Black)					Wyvron W3 4Glaive Atomic			Black
+W3 QR Code				E1028	Wyvron W3 4Glaive Atomic			Purple
+X (Gold)				C1516	Xcalius Force Xtreme				Gold
+X (Red)					C0596	Xcalius Force Xtreme				Red
+X2 (Detailed Sword)		E2458	Xcalius X2 Magnum Impact			Detailed Sword
+X2 (Red)				C3181	Xcalius X2 Magnum Impact			Red
+X2 (Silver)						Xcalius X2 Magnum Impact			Silver
+X2 (White)				E1065	Xcalius X2 Knuckle Impact			White
+X2 MI (Ruby)					Xcalius X2 Magnum Impact			Ruby
+X3 (Red)						Xcalius X3 1 Iron					Red
+X3 (Ruby)						Xcalius X3 1 Iron					Ruby
+Y (Green)				C0943	Yegdrion Ring Edge					Green
+Y2 (Gray)				E1065	Yegdrion Y2 Gravity Edge			Gray
+Y2 (Green)				C0597	Yegdrion Y2 Gravity Survive			Green
+Y2 GS (Yellow Green)			Yegdrion Y2 Gravity Survive			Yellow Green
+Z2 (Black)				C3182	Zeutron Z2 Infinity Weight			Black
+Z2 IW (Onyx)					Zeutron Z2 Infinity Weight			Onyx		
